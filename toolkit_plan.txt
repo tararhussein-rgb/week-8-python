@@ -1,0 +1,19 @@
+Tool 1: Number Guessing Game
+Description: The computer picks a random number between 1 and 10, and the user tries to guess it with hint feedback.
+Concepts Used: Loops, conditionals, f-strings.
+
+Tool 2: Interactive To-Do List
+Description: Allows the user to view, add, and remove tasks from an active task list.
+Concepts Used: Lists, loops, conditionals, methods (append/remove).
+
+Tool 3: Tip & Bill Splitter
+Description: Calculates the total bill with tip and splits it evenly among a given number of people.
+Concepts Used: Conditionals, f-strings, arithmetic operations.
+
+Menu Text:
+=== PERSONAL MINI-TOOLKIT ===
+1. Number Guessing Game
+2. Interactive To-Do List
+3. Tip & Bill Splitter
+4. Quit
+Enter your choice (1-4):
